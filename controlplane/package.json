@@ -62,7 +62,7 @@
     "@wundergraph/cosmo-connect": "workspace:*",
     "@wundergraph/cosmo-shared": "workspace:*",
     "@wundergraph/protographic": "workspace:*",
-    "axios": "^1.13.5",
+    "axios": "^1.16.0",
     "axios-retry": "^4.5.0",
     "bullmq": "^5.10.0",
     "cookie": "^0.7.2",
@@ -96,7 +96,7 @@
     "tiny-lru": "^11.2.11",
     "tinypool": "^2.1.0",
     "uid": "^2.0.2",
-    "uuid": "^10.0.0",
+    "uuid": "^14.0.0",
     "zod": "^3.25.0",
     "zod-to-json-schema": "^3.22.4"
   },
