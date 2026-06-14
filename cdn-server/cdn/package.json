@@ -26,13 +26,13 @@
     "dist"
   ],
   "dependencies": {
-    "hono": "4.10.6",
+    "hono": "4.12.21",
     "jose": "^5.2.4"
   },
   "devDependencies": {
     "eslint": "^8.57.1",
     "eslint-config-unjs": "^0.2.1",
     "typescript": "5.5.2",
-    "vitest": "^3.2.4"
+    "vitest": "^3.2.6"
   }
 }

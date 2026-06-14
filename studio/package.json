@@ -72,7 +72,7 @@
     "@tiptap/starter-kit": "2.1.13",
     "@wundergraph/composition": "workspace:*",
     "@wundergraph/cosmo-connect": "workspace:*",
-    "axios": "^1.12.2",
+    "axios": "^1.16.0",
     "bowser": "^2.11.0",
     "canvas-confetti": "^1.6.0",
     "change-case": "^4.1.2",
@@ -90,12 +90,12 @@
     "fuse.js": "^7.0.0",
     "graphql": "^16.9.0",
     "graphql-ws": "^5.14.1",
-    "js-cookie": "^3.0.5",
+    "js-cookie": "^3.0.7",
     "lodash": "^4.17.21",
     "lz-string": "^1.5.0",
     "monaco-editor": "^0.45.0",
     "monaco-graphql": "^1.4.0",
-    "next": "15.4.11",
+    "next": "15.5.18",
     "next-themes": "^0.2.1",
     "posthog-js": "^1.240.6",
     "pretty-bytes": "^6.1.1",
@@ -145,6 +145,6 @@
     "postcss": "8.4.38",
     "prettier-plugin-tailwindcss": "^0.5.6",
     "typescript": "5.5.2",
-    "vitest": "^3.2.4"
+    "vitest": "^3.2.6"
   }
 }
